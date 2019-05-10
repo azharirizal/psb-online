@@ -3,6 +3,10 @@ session_start();
 error_reporting(0);
 include "conf/connect.php";
 ?>
+
+<!-- Designed By Muhamad Rizal Azhari -->
+<!-- https://bit.ly/2vBKb8Y -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -110,7 +114,7 @@ include "conf/connect.php";
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    Copyright &copy; 2018 <a href="https://www.instagram.com/rizal_azharii/" target="_blank" title="Link to Profile Creator">Muhamad Rizal Azhari</a>. All Rights Reserved.
+                    Copyright &copy; 2018 <a href="https://bit.ly/2vBKb8Y" target="_blank" title="Link to Profile Creator">Muhamad Rizal Azhari</a>. All Rights Reserved.
                 </div>
             </div>
         </div>
