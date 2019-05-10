@@ -9,6 +9,10 @@ echo '<script>alert("Anda Harus Login Terlebih Dahulu !!!");
 }else{
 
 ?>
+
+<!-- Designed By Muhamad Rizal Azhari -->
+<!-- https://bit.ly/2vBKb8Y -->
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -171,7 +175,7 @@ echo '<script>alert("Anda Harus Login Terlebih Dahulu !!!");
   <!-- /.content-wrapper -->
   <footer class="main-footer">
     <div align="center">
-    <strong>Copyright &copy; 2018 <a href="https://www.instagram.com/rizal_azharii/" target="_blank" title="Link to Profile Creator">Muhamad Rizal Azhari</a>.</strong> All Rights
+    <strong>Copyright &copy; 2018 <a href="https://bit.ly/2vBKb8Y" target="_blank" title="Link to Profile Creator">Muhamad Rizal Azhari</a>.</strong> All Rights
     Reserved.
     </div>
   </footer>
